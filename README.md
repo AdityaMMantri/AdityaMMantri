@@ -1,6 +1,7 @@
 # 💫 About Me:
 I am currently working on Machine Learning, Deep Learning and Reinforcement Learning and all the other things along with CyberSecurity
-👋 Hi, I’m @AdityaMMantri
+
+-👋 Hi, I’m @AdityaMMantri
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/in/aditya-madhav-mantri-77735b315) 
